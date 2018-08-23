@@ -1,0 +1,5 @@
+function getFirstSelector(selector) {
+  
+
+  
+}
